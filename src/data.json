@@ -1,0 +1,316 @@
+{
+    "cards": [
+        {
+            "notes": [
+                {
+                    "id": 1,
+                    "cardId": 1,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "No problem, do you have your passport with you?\n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/05e3f0-6a3e69/0.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1544978183000,
+                    "dateUpdated": 1544978183000
+                },
+                {
+                    "id": 2,
+                    "cardId": 1,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Sem problema, você tem seu passaporte com você",
+                    "fieldName": "Back",
+                    "dateCreated": 1544978183000,
+                    "dateUpdated": 1544978183000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 111,
+                    "cardId": 56,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "I am a good father. \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/1b1f22-56f4df/0.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1544978288000,
+                    "dateUpdated": 1544978288000
+                },
+                {
+                    "id": 112,
+                    "cardId": 56,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Eu sou um bom pai.",
+                    "fieldName": "Back",
+                    "dateCreated": 1544978288000,
+                    "dateUpdated": 1544978288000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 339,
+                    "cardId": 170,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "Hey sorry, I think you’re in my seat. \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/53bf63-04d1f8/41.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1544978445000,
+                    "dateUpdated": 1544978445000
+                },
+                {
+                    "id": 340,
+                    "cardId": 170,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Oi desculpe, acho que você está no meu lugar. ",
+                    "fieldName": "Back",
+                    "dateCreated": 1544978445000,
+                    "dateUpdated": 1544978445000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 487,
+                    "cardId": 244,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": " Do you play the piano? \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/3697cf-c10987/108.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1544978517000,
+                    "dateUpdated": 1544978517000
+                },
+                {
+                    "id": 488,
+                    "cardId": 244,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Você toca piano? ",
+                    "fieldName": "Back",
+                    "dateCreated": 1544978517000,
+                    "dateUpdated": 1544978517000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 667,
+                    "cardId": 334,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "They are really getting along.                  <br><audio controls=\"controls\" preload=\"auto\" autobuffer>                     <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/replacement_sept_24/0_they_are_really_getting_along.mp3\" />                 </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1544978611000,
+                    "dateUpdated": 1544978611000
+                },
+                {
+                    "id": 668,
+                    "cardId": 334,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Eles(as) estão realmente se dando bem.",
+                    "fieldName": "Back",
+                    "dateCreated": 1544978611000,
+                    "dateUpdated": 1544978611000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 853,
+                    "cardId": 427,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "No problem, do you have your passport with you?\n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/233d6e-8afadd/17.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545821537000,
+                    "dateUpdated": 1545821537000
+                },
+                {
+                    "id": 854,
+                    "cardId": 427,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Sem problema, você tem seu passaporte com você?",
+                    "fieldName": "Back",
+                    "dateCreated": 1545821537000,
+                    "dateUpdated": 1545821537000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 909,
+                    "cardId": 455,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "The orange coat is as warm as the purple one.\n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/db87d5-6a1a6a/2.wav\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545821674000,
+                    "dateUpdated": 1545821674000
+                },
+                {
+                    "id": 910,
+                    "cardId": 455,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "O casaco laranja é tão quente quanto o roxo.",
+                    "fieldName": "Back",
+                    "dateCreated": 1545821674000,
+                    "dateUpdated": 1545821674000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 935,
+                    "cardId": 468,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "Your company is not as successful as his company.\n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/d7f2a0-5c89ef/4.wav\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545821702000,
+                    "dateUpdated": 1545821702000
+                },
+                {
+                    "id": 936,
+                    "cardId": 468,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Sua empresa não é tão bem-sucedida quanto a empresa dele.",
+                    "fieldName": "Back",
+                    "dateCreated": 1545821702000,
+                    "dateUpdated": 1545821702000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 963,
+                    "cardId": 482,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "I am a good father.<br><audio controls=\"controls\" preload=\"auto\" autobuffer><source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/20baa6-9999f1/11.mp3\" /></audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545821746000,
+                    "dateUpdated": 1578518061955
+                },
+                {
+                    "id": 964,
+                    "cardId": 482,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Eu sou um bom pai.",
+                    "fieldName": "Back",
+                    "dateCreated": 1545821746000,
+                    "dateUpdated": 1578518061955
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 1009,
+                    "cardId": 505,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "Stop it! You’re not fat. \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/48ee73-97056d/4.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545824775000,
+                    "dateUpdated": 1545824775000
+                },
+                {
+                    "id": 1010,
+                    "cardId": 505,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Ah pare! Você não é/está gordo(a) / Vocês não são/estão gordos(as). ",
+                    "fieldName": "Back",
+                    "dateCreated": 1545824775000,
+                    "dateUpdated": 1545824775000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 1055,
+                    "cardId": 528,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "She is a really smart child. \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/6fadbe-d421dc/2.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545824806000,
+                    "dateUpdated": 1545824806000
+                },
+                {
+                    "id": 1056,
+                    "cardId": 528,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Ela é uma criança realmente esperta. ",
+                    "fieldName": "Back",
+                    "dateCreated": 1545824806000,
+                    "dateUpdated": 1545824806000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 1131,
+                    "cardId": 566,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "Are we in trouble? \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/62caa3-700c60/14.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545824833000,
+                    "dateUpdated": 1545824833000
+                },
+                {
+                    "id": 1132,
+                    "cardId": 566,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "Nós estamos encrencados(as)? ",
+                    "fieldName": "Back",
+                    "dateCreated": 1545824833000,
+                    "dateUpdated": 1545824833000
+                }
+            ]
+        },
+        {
+            "notes": [
+                {
+                    "id": 1171,
+                    "cardId": 586,
+                    "noteType": 3,
+                    "fieldNumber": 0,
+                    "field": "What do you prefer? \n                <br><audio controls=\"controls\" preload=\"auto\" autobuffer>\n                    <source src=\"https://s3-sa-east-1.amazonaws.com/carneiro/public/card_audios/370d4b-ae6193/0.mp3\" />\n                </audio><br>",
+                    "fieldName": "Front",
+                    "dateCreated": 1545824846000,
+                    "dateUpdated": 1545824846000
+                },
+                {
+                    "id": 1172,
+                    "cardId": 586,
+                    "noteType": 3,
+                    "fieldNumber": 1,
+                    "field": "O que você prefere?",
+                    "fieldName": "Back",
+                    "dateCreated": 1545824846000,
+                    "dateUpdated": 1545824846000
+                }
+            ]
+        }
+    ]
+}
